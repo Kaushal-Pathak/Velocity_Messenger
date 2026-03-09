@@ -1,0 +1,5 @@
+module Velocity_Messenger
+typeinfo appVelocity_Messenger.qmltypes
+prefer :/Velocity_Messenger/
+Main 1.0 Main.qml
+
