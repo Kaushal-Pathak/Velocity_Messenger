@@ -148,7 +148,7 @@ velocity/
 <br/>
 
 ```
-built with ❤️ using C++ & Qt 6  ·  MIT License
+built with ❤️ using C++ & Qt 6  
 ```
 
 *Velocity — because milliseconds matter.*
